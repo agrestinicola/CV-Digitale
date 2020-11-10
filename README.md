@@ -2,7 +2,7 @@
 
 _Amante dell'informatica che abita in provincia di Verona, Italia_ <br>
 
-[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicola-agresti-4457031b2/) / [GitHub](https://github.com/nicolaagresti/) / [CV.pdf] (https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
+[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicola-agresti-4457031b2/) / [GitHub](https://github.com/nicolaagresti/) / [CV] (https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
 ## 👨‍💻 Esperienza Professionale
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
