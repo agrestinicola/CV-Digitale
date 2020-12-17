@@ -5,6 +5,16 @@ _Amante dell'informatica che abita in provincia di Verona, Italia_ <br>
 [Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicola-agresti-4457031b2/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
 ## 👨‍💻 Esperienza Professionale
+**Junior IT Specialist** [Athena SPA] (https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
+• Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico;
+• Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA;
+• Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie;
+• Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate;
+• Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto;
+• Supportare operativamente per il progetto di gestione digitale dei resi (tramite Zoho Desk), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto;
+• Supportare le attività legate al progetto e-Commerce, dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico.
+  - **_Tecnologie Usate:_** Zoho Desk, Zoho Orchestly, Zoho CRM, Excel.
+
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
 Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
   - **_Tecnologie Usate:_** Python, PostreSQL, PgAdmin, Excel, LaTex.
