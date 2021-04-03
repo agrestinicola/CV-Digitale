@@ -6,27 +6,27 @@ _Amante dell'informatica che abita in provincia di Verona, Italia_ <br>
 
 ## 👨‍💻 Esperienza Professionale
 **Junior IT Digital Specialist** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
-Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico; <br>
-Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA; <br>
-Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie; <br>
-Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate; <br>
-Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto; <br>
-Supportare operativamente per il progetto di gestione digitale dei resi (tramite Zoho Desk), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
-Supportare le attività legate al progetto e-Commerce, dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico. <br>
-  - **_Tecnologie Usate:_** PIM, Zoho Desk, Orchestly, Power Automate, Excel, Lengow, Confluence.
+· Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico; <br>
+· Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA; <br>
+· Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie; <br>
+· Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate; <br>
+· Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto; <br>
+· Supportare operativamente per il progetto di gestione digitale dei resi (tramite Zoho Desk), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
+· Supportare le attività legate al progetto e-Commerce, dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico. <br>
+  - **_Tecnologie Usate:_** Zoho Desk, Diapason, PIM, OMS, Backoffice's site, Excel, Lengow, Station.
 
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
-Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
+· Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
   - **_Tecnologie Usate:_** Python, PostreSQL, PgAdmin, Excel, LaTex.
 
 **Stage** [CRM Village](https://crmvillage.biz/) _(Gennaio 2016 - Febbraio 2016)_ <br>
-Gestione di ticket ed assistenza tecnica di primo livello.
+· Gestione di ticket ed assistenza tecnica di primo livello.
 
 **Stage** [Irideos (ex Infracom)](https://irideos.it/) _(Maggio 2015 - Giugno 2015)_ <br>
-Gestione di ticket ed assistenza tecnica di primo livello.
+· Gestione di ticket ed assistenza tecnica di primo livello.
 
 **Stage** [Brun Telecomunicazioni](http://www.brunsat.it/) _(Marzo 2014 - Aprile 2014)_ <br>
-Tecnico riparatore ed assistenza tecnica di primo livello.
+· Tecnico riparatore ed assistenza tecnica di primo livello.
 
 ## 🎓 Istruzione e Formazione
 
