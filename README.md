@@ -13,7 +13,7 @@ _Amante dell'informatica che abita in provincia di Verona, Italia_ <br>
 · Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto; <br>
 · Supportare operativamente per il progetto di gestione digitale dei resi (tramite Zoho Desk), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
 · Supportare le attività legate al progetto e-Commerce, dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico. <br>
-  - **_Tecnologie Usate:_** Zoho Desk, Diapason, PIM, OMS, Backoffice's site, Excel, Lengow, Station.
+  - **_Tecnologie Usate:_** Zoho Desk, Diapason, PIM, OMS, Backoffice, Excel, Lengow, Station.
 
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
 · Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
