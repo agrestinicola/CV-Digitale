@@ -5,7 +5,7 @@ _Amante dell'informatica che abita in provincia di Verona, Italia_ <br>
 [Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicola-agresti-4457031b2/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
 ## 👨‍💻 Esperienza Professionale
-**Digital Technology Specialist** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
+**Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
 · Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico; <br>
 · Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA; <br>
 · Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie; <br>
