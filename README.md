@@ -1,6 +1,6 @@
 ## Nicola Agresti
 
-_Fornisco supporto ai progetti legati all’ eCommerce ed assistenza tecnica ai colleghi_ <br>
+_Fornisco supporto ai progetti legati all’ eCommerce, alla digitalizzazione ed assistenza tecnica ai colleghi_ <br>
 
 [Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicola-agresti-4457031b2/) / [GitHub](https://github.com/agrestinicola) / [CV](mailto:nicola.agresti97@gmail.com)
 
@@ -13,7 +13,7 @@ _Fornisco supporto ai progetti legati all’ eCommerce ed assistenza tecnica ai 
 · Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto; <br>
 · Supportare operativamente per il progetto di gestione digitale dei resi (tramite Zoho Desk), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
 · Supportare le attività legate al progetto e-Commerce, dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico. <br>
-  - **_Tecnologie Usate:_** Creatio, Zoho Desk, Diapason, Due, PIM, OMS, Backoffice, Excel, Lengow, Station.
+  - **_Tecnologie Usate:_** Creatio, Zoho Desk, Stripe, PayPal, Diapason Due, PIM, OMS, Backoffice, Excel, Lengow, Station.
 
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
 · Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
