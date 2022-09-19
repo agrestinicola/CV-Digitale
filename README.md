@@ -6,13 +6,13 @@ _Fornisco supporto ai progetti legati all’ eCommerce, alla digitalizzazione ed
 
 ## 👨‍💻 Esperienza Professionale
 **Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
-• Supportare le attività legate al progetto e-Commerce e marketplaces (tramite Lengow), dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico;
-• Supportare le attività legate al progetto CRM (Creatio), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; 
-• Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto;
-• Supportare operativamente per il progetto di gestione digitale dei resi (tramite Creatio), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto;
-• Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico;
-• Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA;
-• Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie;
+• Supportare le attività legate al progetto e-Commerce e marketplaces (tramite Lengow), dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad una unica piattaforma aziendale di commercio elettronico;<br>
+• Supportare le attività legate al progetto CRM (Creatio), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
+• Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto;<br>
+• Supportare operativamente per il progetto di gestione digitale dei resi (tramite Creatio), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto;<br>
+• Gestire le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico;<br>
+• Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA;<br>
+• Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie;<br>
 • Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate;<br>
   - **_Tecnologie Usate:_** Creatio, Zoho Desk, Stripe, PayPal, Diapason Due, PIM, OMS, Backoffice, Excel, Lengow, Station, eBay, Amazon Seller Central, Mirakl.
 
