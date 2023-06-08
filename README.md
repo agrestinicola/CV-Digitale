@@ -1,6 +1,6 @@
 ## Nicola Agresti
 
-_Fornisco supporto ai progetti legati all’ eCommerce, alla digitalizzazione ed assistenza tecnica ai colleghi_ <br>
+_Supporto le attività legate al mondo della tecnologia digitale e fornisco assistenza tecnica ai colleghi_ <br>
 
 [Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
