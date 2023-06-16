@@ -27,6 +27,8 @@ _Supporto le attività legate al mondo della tecnologia digitale e fornisco assi
 **Stage** [Brun Telecomunicazioni](http://www.brunsat.it/) _(Marzo 2014 - Aprile 2014)_ <br>
 · Tecnico riparatore ed assistenza tecnica di primo livello.
 
+* * *
+
 ## 🎓 Istruzione e Formazione
 
 **Laurea in Informatica**<br>
@@ -40,6 +42,8 @@ Università degli Studi di Verona - Verona, Italia _(2020 - nessuna scadenza)_
 
 **Certificazione IT Essentials** <br>
 Istituto Dal Cero - San Bonifacio, Verona, Italia _(2016 - nessuna scadenza)_
+
+* * *
 
 ## 💬 Lingue
 
