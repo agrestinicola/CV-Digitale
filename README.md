@@ -1,4 +1,4 @@
-[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
+[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf?utm_source=google&utm_medium=cta&utm_campaign=mycvpdf)
 
 _Supporto le attività legate al mondo della tecnologia digitale e fornisco assistenza tecnica ai colleghi_ <br>
 
