@@ -1,8 +1,6 @@
-## Nicola Agresti
+[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
 _Supporto le attività legate al mondo della tecnologia digitale e fornisco assistenza tecnica ai colleghi_ <br>
-
-[Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf)
 
 ## 👨‍💻 Esperienza Professionale
 **Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
