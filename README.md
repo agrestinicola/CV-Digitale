@@ -12,7 +12,7 @@ _Supporto le attività legate al mondo della tecnologia digitale e fornisco assi
 • Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA;<br>
 • Risolvere piccole problematiche degli utenti e proporre migliorie delle procedure al proprio responsabile/agenzie;<br>
 • Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate;<br>
-  - **_Tecnologie Usate:_** Creatio, Zoho Desk, Stripe, PayPal, Diapason Due, PIM, OMS, Boomi, e-Commerce Backoffice, Excel, Lengow, Station, eBay, Amazon Seller Central, Mirakl.
+  - **_Tecnologie Usate:_** Creatio, Zoho Desk, Stripe, PayPal, Diapason Due, PIM, OMS, Boomi, e-Commerce Backoffice, Landingi, Excel, Lengow, Station, eBay, Amazon Seller Central, Mirakl.
 
 **Tirocinio** [Università degli Studi di Verona](https://www.di.univr.it/?ent=cs&id=420&tcs=N) _(Agosto 2020 - Settembre 2020)_ <br>
 · Analisi dei dati da Twitter per individuare il livello di partecipazione nella composizione dei Tweet da parte degli autori.
