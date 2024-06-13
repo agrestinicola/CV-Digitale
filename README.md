@@ -3,7 +3,17 @@
 _Supporto le attività legate al mondo della tecnologia digitale e fornisco assistenza tecnica ai colleghi_ <br>
 
 ## 👨‍💻 Esperienza Professionale
-**Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - Presente)_ <br>
+**Digital Technologies Specialist** [Passione Beauty SPA](https://www.passionebeauty.com/it_it/) _(11 Marzo 2024 - Presente)_ <br>
+• Supportare le attività legate al sito web e app e-Commerce (AdobeCommerce), dal monitoraggio delle integrazioni e del funzionamento delle piattaforme al supporto delle funzioni aziendali coinvolte; <br>
+• Supportare le attività legate al progetto CRM & Marketing automation (Hubspot), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br> 
+• Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto; <br> 
+• Proporre migliorie delle procedure al proprio responsabile/agenzie; <br> 
+• Gestire e risolvere le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico; <br> 
+• Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA; <br> 
+• Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate;<br> 
+  - **_Tecnologie Usate:_** AdobeCommerce (Magento), Hubspot, HiPay, PayPal, Klarna, Scalapay, Microsoft Dynamics 365 Business Central, PIM, Microsoft Power BI
+
+**Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - 08 Marzo 2023)_ <br>
 • Supportare le attività legate al progetto e-Commerce e marketplaces (tramite Lengow), dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad un'unica piattaforma aziendale di commercio elettronico;<br>
 • Supportare le attività legate al progetto CRM (Creatio), coordinandosi con le funzioni aziendali ed il partner coinvolto nel progetto; <br>
 • Supportare il responsabile sul progetto PIM (Product Information Management), coordinandosi con le funzioni marketing ed R&D e con il partner coinvolto nel progetto;<br>
