@@ -1,6 +1,6 @@
 [Email](mailto:nicola.agresti97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nicolaagresti/) / [GitHub](https://github.com/agrestinicola) / [CV](https://github.com/agrestinicola/cv/blob/gh-pages/CV_AgrestiNicola.pdf?utm_source=google&utm_medium=cta&utm_campaign=mycvpdf)
 
-_Supporto le attività legate al mondo della tecnologia digitale e fornisco assistenza tecnica ai colleghi_ <br>
+_Lavoro da diversi anni con nel mondo eCommerce, questo mi ha permesso di lavorare in squadra con i vari partner/colleghi e di utilizzare/imparare tutto ciò che fa funzionare questo mondo, per citare alcuni macrotemi: CRM, PIM, AWS, API, AdobeCommerce, metodi di pagamento, marketplaces, ERP, WMS_ <br>
 
 ## 👨‍💻 Esperienza Professionale
 **Digital Technologies Specialist** [Passione Beauty SPA](https://www.passionebeauty.com/it_it/) _(11 Marzo 2024 - Presente)_ <br>
