@@ -11,7 +11,7 @@ _Con diversi anni di esperienza nell'e-commerce, ho sviluppato una solida compet
 • Gestire e risolvere le richieste di assistenza da parte degli utenti, tramite ticket o supporto telefonico; <br> 
 • Monitorare lo stato di avanzamento delle richieste, garantendo adeguato livello di SLA; <br> 
 • Redigere la documentazione di supporto all'utilizzo delle piattaforme adottate;<br> 
-  - **_Tecnologie Usate:_** AdobeCommerce (Magento), Hubspot, HiPay, PayPal, Klarna, Scalapay, Microsoft Dynamics 365 Business Central, PIM, Microsoft Power BI
+  - **_Tecnologie Usate:_** AdobeCommerce (Magento), Hubspot, HiPay, PayPal, Klarna, Scalapay, Microsoft Dynamics 365 Business Central, PIM, Microsoft Power BI, GA4, Google Tag Manager, Meta Business Suite, AWS, Zendesk, ecc.
 
 **Digital Technologies Support** [Athena SPA](https://www.athena.eu/it-it/) _(30 Novembre 2020 - 08 Marzo 2024)_ <br>
 • Supportare le attività legate al progetto e-Commerce e marketplaces (tramite Lengow), dal monitoraggio delle integrazioni e del funzionamento della piattaforma al supporto delle funzioni aziendali coinvolte, facilitando la transizione ad un'unica piattaforma aziendale di commercio elettronico;<br>
